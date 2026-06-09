@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+.venv311/
+venv/
+
+# Banco de dados
+*.db
+database.db
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Expo
+.expo/
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# React Native
+android/app/build/
+ios/build/
+
+# Cache
+.cache/
+
+# Arquivos temporários
+*.tmp
+
+# DS Store
+.DS_Store
