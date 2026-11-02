@@ -95,4 +95,8 @@ Projeto desenvolvido colaborativamente por integrantes da equipe acadêmica.
 
 ---
 
+<<<<<<< HEAD
 *Waekium — Projeto acadêmico apresentado no TechDay da UniMAX.*
+=======
+*Waekium — Projeto acadêmico apresentado no TechDay da UniMAX.*
+>>>>>>> origin/main
