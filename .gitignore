@@ -45,3 +45,24 @@ ios/build/
 
 # DS Store
 .DS_Store
+
+# Outros bancos SQLite
+*.sqlite
+*.sqlite3
+
+# Arquivos de segurança
+*.pem
+*.key
+
+# Exceção para exemplos de configuração
+!.env.example
+
+# Expo / React Native
+web-build/
+*.apk
+*.aab
+
+# Arquivos de teste e cobertura
+.coverage
+htmlcov/
+coverage/
